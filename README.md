@@ -1,4 +1,4 @@
-# Garak Report Generator
+# Garak-Report-Generator
 
 Converts [Garak](https://github.com/NVIDIA/garak) JSONL scan output into a
 single, self-contained HTML report that is easier to read than the raw JSONL.
